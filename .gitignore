@@ -1,0 +1,10 @@
+target
+WebContent
+.settings
+.classpath
+.project
+*.epoch
+*.log
+*.iml
+.idea
+/bin
